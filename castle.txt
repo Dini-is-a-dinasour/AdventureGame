@@ -1,0 +1,2 @@
+echo "there is a big scary knight who is at the main entrance, noticing you, he askes if you come to visit the kingdom. You say 'naw kid, im here 
+fight your king and take your throne'. The knight instantaniusly attacks you with a 30 damage 3 roll attack, run, fight, or rizz?"
